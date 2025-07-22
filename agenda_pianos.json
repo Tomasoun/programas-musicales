@@ -1,0 +1,26 @@
+{
+    "piano3": {
+        "marca": "Kawai",
+        "modelo": "K500",
+        "año": 2012,
+        "última_afinación": "2025-07-01",
+        "dueño": {
+            "nombre": "Luis Ferré",
+            "dirección": "Pasaje Clave 789",
+            "correo": "luis@example.com",
+            "teléfono": "456-789-1234"
+        }
+    },
+    "suquer": {
+        "marca": "stenwai",
+        "modelo": "12223",
+        "año": 2022,
+        "última_afinación": "1992-03-12",
+        "dueño": {
+            "nombre": "juaquin",
+            "dirección": "uno norte 0231",
+            "correo": "unisono.g@gmail.com",
+            "teléfono": "232323445654"
+        }
+    }
+}

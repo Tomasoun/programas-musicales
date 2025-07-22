@@ -1,0 +1,26 @@
+{
+  "piano1": {
+    "marca": "Yamaha",
+    "modelo": "U3",
+    "año": 1998,
+    "última_afinación": "2023-11-10",
+    "dueño": {
+      "nombre": "Juan Pérez",
+      "dirección": "Calle Música 123",
+      "correo": "juan@example.com",
+      "teléfono": "123-456-7890"
+    }
+  },
+  "piano2": {
+    "marca": "Steinway",
+    "modelo": "Model D",
+    "año": 2005,
+    "última_afinación": "2024-03-25",
+    "dueño": {
+      "nombre": "María Gómez",
+      "dirección": "Av. Armonía 456",
+      "correo": "maria@example.com",
+      "teléfono": "987-654-3210"
+    }
+  }
+}
